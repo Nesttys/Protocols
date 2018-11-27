@@ -1,0 +1,6 @@
+C:\Users\student.LAN\source\repos\Protocols\FTPClient\bin\Debug\FTPClient.exe.config
+C:\Users\student.LAN\source\repos\Protocols\FTPClient\bin\Debug\FTPClient.exe
+C:\Users\student.LAN\source\repos\Protocols\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\student.LAN\source\repos\Protocols\FTPClient\obj\Debug\FTPClient.csproj.CoreCompileInputs.cache
+C:\Users\student.LAN\source\repos\Protocols\FTPClient\obj\Debug\FTPClient.exe
+C:\Users\student.LAN\source\repos\Protocols\FTPClient\obj\Debug\FTPClient.pdb
