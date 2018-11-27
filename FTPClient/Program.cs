@@ -29,6 +29,7 @@ namespace FTPClient
                 total += read;
                 Console.WriteLine($"Downloaded {total} bytes");
             }
+            System.Diagnostics.Debug.WriteLine("Check");
             ftpStream.Close();
             fileStream.Close();
             response.Close();
